@@ -1,0 +1,28 @@
+<script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+
+<script>
+
+$(window).scroll(function () {
+
+  $("aside").css('top', $(window).scrollTop() - 150 +'px');
+
+});
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$', '$'], ["\\(", "\\)"] ],
+      displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
+      processEscapes: true,
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+    //,
+    //displayAlign: "left",
+    //displayIndent: "2em"
+  });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}

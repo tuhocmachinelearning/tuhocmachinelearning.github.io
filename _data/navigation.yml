@@ -1,0 +1,22 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+
+docs:
+  - title: Tất cả bài viết
+    children:
+      - title: "Blog #2 - Cái máy nó học như thế nào"
+        url: "/introduction/may-no-hoc-the-nao/"
+      - title: "Blog #1 - Những bài toán cơ bản trong Machine Learning và ứng dụng"
+        url: "/problems/introduction/nhung-bai-toan-co-ban-va-ung-dung/"
+      - title: "Giới thiệu Blog Tự học Machine Learning"
+        url: "/introduction/introduction/"
+
+
+
