@@ -54,6 +54,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  text-align: justify;
   font-size: $type-size-6;
 
   & + p {
@@ -172,7 +173,7 @@
 
   .archive__item-excerpt {
     display: none;
-
+    text-align: justify;
     @include breakpoint($medium) {
       display: block;
       font-size: $type-size-6;

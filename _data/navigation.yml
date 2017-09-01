@@ -11,6 +11,10 @@ main:
 docs:
   - title: Tất cả bài viết
     children:
+      - title: "Blog #4 - Phân loại văn bản Tiếng Việt - Phần 1"
+        url: "/classification/phan-loai-van-ban-tieng-viet-phan-1/"
+      - title: "Blog #3 - Overfitting và những triết lý cuộc đời"
+        url: "/introduction/overfiting-va-triet-ly-cuoc-doi/"
       - title: "Blog #2 - Cái máy nó học như thế nào"
         url: "/introduction/may-no-hoc-the-nao/"
       - title: "Blog #1 - Những bài toán cơ bản trong Machine Learning và ứng dụng"
