@@ -5,7 +5,7 @@ categories:
   - Introduction
 tags:
   - Overfiting and life
-teaser: 'https://fthmb.tqn.com/4GWkAiQAejmRG1uifK7DsovieS0=/800x0/filters:no_upscale()/about/Illo_Psychology-56f5b0bf5f9b582986653794.png'
+teaser: 'https://miro.medium.com/max/986/1*XWh6hd8BgI3RKhd8bkrbuw.png'
 
 excerpt: 'Chào các bạn, chúng ta chào đón nhau bằng một nụ cười thật tươi  và chúc bạn một ngày mới với những niềm vui mới. Các bạn thân mến của tôi, có lẽ rằng với rất nhiều người, khoa học tự nhiên vốn là khoa học của những con số, những công thức, những giải thuật và vô hình chung người ta đã quan niệm rằng nó  tách biệt hoàn toàn với khoa học xã hội - khoa học của các triết lý, khoa học của nhân sinh quan, thế giới quan...'
 
